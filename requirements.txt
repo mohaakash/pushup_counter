@@ -1,0 +1,6 @@
+ultralytics==8.3.191
+opencv-python==4.12.0.88
+PyQt6==6.9.1
+numpy==2.2.6
+torch==2.8.0
+torchvision==0.23.0
