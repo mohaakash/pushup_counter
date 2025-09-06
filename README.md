@@ -2,6 +2,9 @@
 
 This project is a real-time push-up counter that uses your webcam and a YOLOv8 pose estimation model to track and count your push-ups.
 
+## Screenshot
+![Screenshot](video/screenshot.png)
+
 ## Features
 
 *   **Real-time Push-up Counting:** Counts push-ups accurately from a live video stream.
